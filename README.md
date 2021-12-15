@@ -9,6 +9,18 @@
 - ⚡ I worked for many companies and I couple of times was a part of startups as well
 - 🤓 Mostly my projects were platforms and CRM systems.
 
+[1.1]: https://cdn-icons-png.flaticon.com/32/174/174848.png
+[2.1]: https://cdn-icons-png.flaticon.com/32/174/174855.png
+[3.1]: https://cdn-icons-png.flaticon.com/32/174/174857.png
+[4.1]: https://cdn-icons-png.flaticon.com/32/2111/2111646.png
+
+[1]: https://www.facebook.com/m.akbarshox
+[2]: https://www.instagram.com/akbarshox.m/
+[3]: https://www.linkedin.com/in/akbarjon-mukhammadjanov-364aa617a/
+[4]: https://t.me/akbarshox56
+
+   [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3] [![alt text][4.1]][4]
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbarshox&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
