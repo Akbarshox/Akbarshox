@@ -19,7 +19,7 @@
 [3]: https://www.linkedin.com/in/akbarjon-mukhammadjanov-364aa617a/
 [4]: https://t.me/akbarshox56
 
-   [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3] [![alt text][4.1]][4]
+- Contacts me: [![alt text][1.1]][1] [![alt text][2.1]][2] [![alt text][3.1]][3] [![alt text][4.1]][4]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akbarshox&show_icons=true&theme=radical)
 
